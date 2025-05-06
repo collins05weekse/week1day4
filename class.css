@@ -1,0 +1,20 @@
+header .item-header{
+    color: antiquewhite;
+    background-color: rgb(91, 56, 13);
+}
+main.mate .div.item h2.team{
+    color: white;
+    background-color: blue;
+}
+div.item p{
+    color: rgb(232, 30, 30);
+    background-color: greenyellow;
+}
+.sub{
+    color: rgb(188, 188, 188);
+    background-color: mistyrose;
+}
+.my-span{
+    color: dimgray;
+    background-color: indigo;
+}

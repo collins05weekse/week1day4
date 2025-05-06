@@ -1,0 +1,17 @@
+div.parent p.child{
+    color: aliceblue;
+    background-color: rgb(3, 3, 2);
+}
+.parent2 .child2{
+    color: forestgreen;
+    background-color: lavenderblush;
+}
+.parent .subchild p{
+    color: gold;
+    background-color: ghostwhite;
+}
+.parent div div .my-span{
+    color: darkseagreen;
+    background-color: navajowhite;
+    font-size: 50px;
+}
